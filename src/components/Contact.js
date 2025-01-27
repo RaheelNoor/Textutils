@@ -3,6 +3,7 @@ import React from 'react'
 export default function Contact(props) {
   return (
     <>
+    <h1>You can Contact me any time, Thank you</h1>
     <form style={props.style}>
        
         <div data-mdb-input-init className="form-outline mb-4">
